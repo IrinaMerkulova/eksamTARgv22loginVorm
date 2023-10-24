@@ -35,7 +35,7 @@ if(isSet($_REQUEST["sisestusnupp"]) && isset($_SESSION["kasutaja"])){
 <body>
 <header>
     <h1>Jalgrattaeksam</h1>
-    <header>
+
         <?php
         if(isset($_SESSION['kasutaja'])){
             ?>

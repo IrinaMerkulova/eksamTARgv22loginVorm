@@ -37,7 +37,7 @@ function asenda($nr){
 <body>
 <header>
     <h1>Jalgrattaeksam</h1>
-    <header>
+
         <?php
         if(isset($_SESSION['kasutaja'])){
             ?>
